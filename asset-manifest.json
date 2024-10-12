@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SDLC/static/css/main.88751aed.css",
+    "main.js": "/SDLC/static/js/main.69f84074.js",
+    "static/media/welcome.png": "/SDLC/static/media/welcome.af1ec4e6896b7f3f75bd.png",
+    "static/media/Carosuel.png": "/SDLC/static/media/Carosuel.40478072b409c63d7767.png",
+    "static/media/computer.png": "/SDLC/static/media/computer.a943cc4efbfbb162400c.png",
+    "static/media/Carosuel-bg-mobile.jpeg": "/SDLC/static/media/Carosuel-bg-mobile.b1e746a41be1c765eada.jpeg",
+    "static/media/Carosuel-bg-desktop.jpeg": "/SDLC/static/media/Carosuel-bg-desktop.dc99300c0a1f2542c5e9.jpeg",
+    "static/media/sdlc-logo_1-removebg-preview.png": "/SDLC/static/media/sdlc-logo_1-removebg-preview.1985ce73842cbce81975.png",
+    "static/media/person_search.webp": "/SDLC/static/media/person_search.830aa62c699d313e076e8f7c4c915e71.830aa62c699d313e076e.webp",
+    "static/media/groups_black.webp": "/SDLC/static/media/groups_black.77b567abe660e94b6b932bfee708763b.77b567abe660e94b6b93.webp",
+    "static/media/swap_horiz_black.webp": "/SDLC/static/media/swap_horiz_black.d59a6d8d6c33cafb503ce53dd03b39c8.d59a6d8d6c33cafb503c.webp",
+    "static/media/business_black.webp": "/SDLC/static/media/business_black.da9c31e2737590d81d516a16d191f979.da9c31e2737590d81d51.webp",
+    "static/media/assessment_black.webp": "/SDLC/static/media/assessment_black.7092ec7fce10d6de07739b86fef7bb8e.7092ec7fce10d6de0773.webp",
+    "index.html": "/SDLC/index.html",
+    "main.88751aed.css.map": "/SDLC/static/css/main.88751aed.css.map",
+    "main.69f84074.js.map": "/SDLC/static/js/main.69f84074.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88751aed.css",
+    "static/js/main.69f84074.js"
+  ]
+}
